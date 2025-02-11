@@ -1,14 +1,25 @@
-# About Me
-Hello!
+# Hi! I'm Nava
+## I am....
 
-:telescope: 3rd year Astronomy and Physics Specialist at the University of Toronto with a minor in math 
+🔭 a 3rd year Astronomy and Physics Specialist at the University of Toronto with a minor in math 
 
-:computer: Interested in the intersection of machine learning and astrophysics 
+💻 Interested in the intersection of machine learning and astrophysics 
 
-:ringed_planet: Amateur researcher 
+🪐 an amateur researcher 
 
-:microphone: Enthusiastic physics communicator (PHI UofT) 
+🎤 an enthusiastic physics communicator (PHI UofT) 
 
-:paperclip: LaTeX afficionado 
+📎 a LaTeX afficionado 
 
-:jigsaw: Avid jigsaw puzzle solver and knit & crochet enthusiast
+🧩 an Avid jigsaw puzzle solver and knit & crochet enthusiast
+
+## Currently, I am...
+🔍 Working on a super-resolution algorithm for the [Dragonfly Telephoto Array](https://www.dragonflytelescope.org/)
+
+☀️ Looking for summer 2025 astrophysics research opportunities
+
+## I want to learn more about...
+
+🚀 Early universe evolution
+
+🌕 Exoplanets
