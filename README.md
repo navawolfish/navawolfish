@@ -11,4 +11,4 @@ Hello!
 
 :paperclip: LaTeX afficionado 
 
-:jigsaw: avid jigsaw puzzle solver and knit & crochet enthusiast
+:jigsaw: Avid jigsaw puzzle solver and knit & crochet enthusiast
