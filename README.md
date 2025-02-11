@@ -1,16 +1,14 @@
-## Hi there 👋
+# About Me
+Hello!
 
-<!--
-**navawolfish/navawolfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:telescope: 3rd year Astronomy and Physics Specialist at the University of Toronto with a minor in math 
 
-Here are some ideas to get you started:
+:computer: Interested in the intersection of machine learning and astrophysics 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:satellite: Amateur researcher 
+
+:microphone: Enthusiastic physics communicator (PHI UofT) 
+
+:paperclip: LaTeX afficionado 
+
+:jigsaw: avid jigsaw puzzle solver and knit & crochet enthusiast
