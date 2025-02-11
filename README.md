@@ -1,4 +1,4 @@
-# Hi! I'm Nava
+# Hi! I'm Nava 🧶
 ## I am....
 
 🔭 a 3rd year Astronomy and Physics Specialist at the University of Toronto with a minor in math 
