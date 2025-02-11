@@ -5,7 +5,7 @@ Hello!
 
 :computer: Interested in the intersection of machine learning and astrophysics 
 
-:satellite: Amateur researcher 
+:ringed_planet: Amateur researcher 
 
 :microphone: Enthusiastic physics communicator (PHI UofT) 
 
