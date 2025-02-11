@@ -12,7 +12,7 @@
 
 📎 a LaTeX afficionado 
 
-🧩 an Avid jigsaw puzzle solver and knit & crochet enthusiast
+🧩 an avid jigsaw puzzle solver and knit & crochet enthusiast
 
 ## Currently, I am...
 🔍 Working on a super-resolution algorithm for the [Dragonfly Telephoto Array](https://www.dragonflytelescope.org/)
