@@ -15,9 +15,9 @@
 🧩 an avid jigsaw puzzle solver and knit & crochet enthusiast
 
 ## Currently, I am...
-🔍 Working on a super-resolution algorithm for the [Dragonfly Telephoto Array](https://www.dragonflytelescope.org/)
+🔭 Developing code to calibrate the JWST spectroscope
 
-☀️ Looking for summer 2025 astrophysics research opportunities
+🔍 Working on a super-resolution algorithm for the [Dragonfly Telephoto Array](https://www.dragonflytelescope.org/)
 
 
 <h3 align="left">Languages and Tools:</h3>
