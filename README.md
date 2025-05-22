@@ -15,7 +15,7 @@
 🧩 an avid jigsaw puzzle solver and knit & crochet enthusiast
 
 ## Currently, I am...
-🔭 Developing code to calibrate the JWST spectroscope
+🔭 Developing code to calibrate JWST/NIRSpec
 
 🔍 Working on a super-resolution algorithm for the [Dragonfly Telephoto Array](https://www.dragonflytelescope.org/)
 
