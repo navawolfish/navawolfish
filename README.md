@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Nava :yarn:</h1>
-<h3 align="center">a 3rd year Astronomy and Physics Specialist at the University of Toronto with a minor in math </h3>
+<h3 align="center">a 4th year Astronomy and Physics Specialist at the University of Toronto with a minor in math </h3>
 <h2 align="left"> I am.... </h2>
 
 
