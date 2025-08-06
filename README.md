@@ -12,12 +12,14 @@
 
 📎 a LaTeX afficionado 
 
-🧩 an avid jigsaw puzzle solver and knit & crochet enthusiast
+🧩 a rookie web developer
 
 ## Currently, I am...
 🔭 Developing code to calibrate JWST/NIRSpec
 
 🔍 Working on a super-resolution algorithm for the [Dragonfly Telephoto Array](https://www.dragonflytelescope.org/)
+
+⚾ Developing a machine learning algorithm to optimize baseball batting orders
 
 
 <h3 align="left">Languages and Tools:</h3>
