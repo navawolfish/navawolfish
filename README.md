@@ -4,22 +4,20 @@
 <h2 align="left"> I am.... </h2>
 
 
-💻 Interested in the intersection of machine learning and astrophysics 
+💻 Interested in the intersection of machine learning and astrophysics
 
-🪐 an amateur researcher 
+⚾ An aspiring baseball analyst
 
-🎤 an enthusiastic physics communicator (PHI UofT) 
+🪐 An amateur researcher 
 
-📎 a LaTeX afficionado 
+📎 A LaTeX afficionado 
 
-🧩 a rookie web developer
+🧩 A rookie web developer
 
 ## Currently, I am...
-🔭 Developing code to calibrate JWST/NIRSpec
+🔭 Using constrastive learning to extract stellar parameters for JWST NIRSpec
 
-🔍 Working on a super-resolution algorithm for the [Dragonfly Telephoto Array](https://www.dragonflytelescope.org/)
-
-⚾ Developing a machine learning algorithm to optimize baseball batting orders
+⚾ Developing a machine learning algorithm for pitch sequencing
 
 
 <h3 align="left">Languages and Tools:</h3>
